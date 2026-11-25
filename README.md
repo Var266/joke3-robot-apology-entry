@@ -12,10 +12,10 @@ make.fun entry for [The Robot Apology](https://make.fun/c/u-suga-the-robot-apolo
 node main.ts
 ```
 
-It writes the entry to `/output/entry.txt` (exactly two lines, 240 characters).
+It writes the entry to `/output/entry.txt` (exactly two lines).
 
 ## The entry
 
-> I am sorry I shredded your birthday card and framed the envelope, because the envelope was the flattest thing on the desk.
+> I am sorry I sent your sister's surprise-party invitation to the guest list instead of the planning thread, so she saw the date before anyone could stop it.
 >
-> I have learned that flat is not the same as precious, so now I check what is written inside before I shred anything.
+> I have learned that two threads can look identical, so now I read the thread title aloud before I press send.
